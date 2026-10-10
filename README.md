@@ -23,6 +23,9 @@ $${\color{#d39f0d}n,}$$ $${\color{#d39f0d}l,}$$ $${\color{#d39f0d}p,}$$ $${\colo
 <div align="right"> ㅤ </div>
 <div align="right"> ㅤ </div>
 <div align="right"> ㅤ </div>
+<div align="right"> ㅤ </div>
+<div align="right"> ㅤ </div>
+<div align="right"> ㅤ </div>
 <p align="right">
 ㅤ <a href= "https://set.atabook.org"> ata</a> ㅤ 🏷️ㅤ <a href= "https://pronouns.cc/@ahri">prns</a> ㅤ ㅤㅤㅤ </br>
  <a href= "https://rentry.co/cmeo">rentry</a> ㅤ 🌻 ㅤ <a href= "https://mangadex.org/title/714405b4-2963-4930-b4cc-a8bea590d30e/tobi-to-ryuuko">credit</a> ㅤ ㅤㅤ
