@@ -11,6 +11,7 @@ $${\color{#d39f0d}n,}$$ $${\color{#d39f0d}l,}$$ $${\color{#d39f0d}p,}$$ $${\colo
 <div align="right"> ㅤ </div>
 <div align="right"> ㅤ </div>
 <div align="right"> ㅤ </div>
+<div align="right"> ㅤ </div>
 <p align="right">
  アイとユーの言葉が ㅤㅤㅤㅤ </br>
  宙に舞い踊った ㅤㅤㅤㅤㅤ </br>
@@ -18,7 +19,6 @@ $${\color{#d39f0d}n,}$$ $${\color{#d39f0d}l,}$$ $${\color{#d39f0d}p,}$$ $${\colo
  夢に逢い混ざった ㅤ ㅤ ㅤㅤ </br>
 </p>
 
-<div align="right"> ㅤ </div>
 <div align="right"> ㅤ </div>
 <div align="right"> ㅤ </div>
 <div align="right"> ㅤ </div>
